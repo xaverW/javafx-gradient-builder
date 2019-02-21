@@ -1,2 +1,8 @@
-/bin/
-/target/
+# Ignore everything in the root except ...
+/*
+
+!src/main/java/
+!src/main/resources/
+!README.md
+!LICENSE
+
