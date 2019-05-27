@@ -1,8 +1,9 @@
 # Ignore everything in the root except ...
 /*
 
-!src/main/java/
-!src/main/resources/
+!src/
+!libs/
+
 !README.md
-!LICENSE
+!RELEASE.md
 
